@@ -73,4 +73,4 @@ def student_name_hook() -> str:
     Returns:
         str: Name of student
     """
-    return 'Silas Springer'
+    return 'Kaleb Demaline'
